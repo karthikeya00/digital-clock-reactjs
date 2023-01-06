@@ -1,0 +1,12 @@
+*{
+   background-image: url("https://static.vecteezy.com/system/resources/previews/006/450/051/non_2x/gradient-red-blue-purple-abstract-background-you-can-use-this-background-for-your-content-like-as-video-game-qoute-promotion-template-presentation-education-sports-card-banner-website-etc-free-vector.jpg");
+}
+.heading{
+  text-align: center;
+  color: rgb(2, 2, 2);
+  margin: center;
+  padding: 200px;
+  font-family:'IBM Plex Mono', monospace;
+  
+}
+
