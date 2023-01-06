@@ -3,10 +3,11 @@
 }
 .heading{
   text-align: center;
-  color: rgb(2, 2, 2);
+  color: white;
   margin: center;
   padding: 200px;
   font-family:'IBM Plex Mono', monospace;
+  font-size: 2cm;
   
 }
 
